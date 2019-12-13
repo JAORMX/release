@@ -2,11 +2,11 @@
 # See the OWNERS docs: https://git.k8s.io/community/contributors/guide/owners.md
 
 approvers:
-- jaormx
+- JAORMX
 - jhrozek
 - mrogers950
 options: {}
 reviewers:
-- jaormx
+- JAORMX
 - jhrozek
 - mrogers950
